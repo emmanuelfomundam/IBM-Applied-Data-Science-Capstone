@@ -15,11 +15,11 @@ If we can predict whether the first stage will successfully land and be reused, 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📄 Research Questions
 
-How do variables such as payload mass, launch site, number of flights, and orbit affect the success of the first stage landing?
+- How do variables such as payload mass, launch site, number of flights, and orbit affect the success of the first stage landing?
 
-Has the rate of successful landings increased over the years?
+- Has the rate of successful landings increased over the years?
 
-What is the best machine learning algorithm for predicting first stage landing success (binary classification)?
+- What is the best machine learning algorithm for predicting first stage landing success (binary classification)?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📄 Methodology
 1. Data Collection
@@ -46,27 +46,19 @@ What is the best machine learning algorithm for predicting first stage landing s
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Tools & Technologies
 
-Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
-
-SQL
-
-Folium (geospatial analysis)
-
-Plotly Dash (interactive dashboarding)
-
-Web Scraping (BeautifulSoup, Requests)
-
-REST APIs
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+- SQL
+- Folium (geospatial analysis)
+- Plotly Dash (interactive dashboarding)
+- Web Scraping (BeautifulSoup, Requests)
+- REST APIs
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Key Outcomes
 
-Identified key factors that influence Falcon 9 first stage landing success.
-
-Analyzed historical landing trends to determine improvements over time.
-
-Built and compared machine learning models to predict landing outcomes.
-
-Delivered insights through visualizations and an interactive dashboard.
+- Identified key factors that influence Falcon 9 first stage landing success.
+- Analyzed historical landing trends to determine improvements over time.
+- Built and compared machine learning models to predict landing outcomes.
+- Delivered insights through visualizations and an interactive dashboard.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Conclusion
 
